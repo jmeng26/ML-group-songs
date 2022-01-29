@@ -1,0 +1,194 @@
+name,album,artist,id,release_date,popularity,danceability,energy,valence,loudness,kmeans
+Ceremony,Singles (US format),New Order,33TIy7cQyLRaFqaoNlfKKT,2005-12-06,0,0.3,0.642,0.38,-9.477,1
+Elegia - 2015 Remaster,Low-Life,New Order,2Xs7CP4Gw8wJ8qX8fkrCAB,1985-05-13,51,0.431,0.44,0.0384,-10.288,1
+Vicious Streak,Get Ready,New Order,1MNBPXU7GJ0eIlAtzWYAI2,2001-06-18,32,0.662,0.468,0.421,-11.626,1
+Doubts Even Here,Movement,New Order,3P5JPteLeFiwAmv2EzQpJF,1981-01-13,0,0.511,0.4,0.414,-17.664,1
+The Him,Movement,New Order,0IUUFhNRhXB3HMsTQpA3xC,1981-01-13,0,0.312,0.689,0.338,-14.026,1
+The Last Man on Earth,Blue Weekend,Wolf Alice,6z6Nd3M3D38XJMnkEC0GZh,2021-06-04,59,0.253,0.293,0.117,-8.544,1
+No Hard Feelings,Blue Weekend,Wolf Alice,6eJaTm3sfYirbFpibBhnRO,2021-06-04,54,0.679,0.253,0.653,-13.777,1
+How Can I Make It OK?,Blue Weekend,Wolf Alice,2vy48b6ad55AzooT8Mg2nY,2021-06-04,60,0.463,0.704,0.198,-5.264,1
+Silk,My Love Is Cool,Wolf Alice,5VWtavZNYlK6m6MQY6YRg1,2015-06-22,55,0.514,0.414,0.231,-9.693,1
+White Leather,My Love Is Cool (Deluxe Edition),Wolf Alice,57z2fiemiFjOkPBHtgCtOA,2016-02-05,44,0.732,0.355,0.255,-16.885,1
+Delicious Things,Blue Weekend,Wolf Alice,6pAfAhSBOeNi5Tw8AfB5RQ,2021-06-04,59,0.467,0.5,0.279,-5.608,1
+Your Loves Whore,My Love Is Cool,Wolf Alice,576lubCgnXbgRF7etHrFYy,2015-06-22,46,0.582,0.59,0.32,-6.981,1
+Blush,My Love Is Cool (Deluxe Edition),Wolf Alice,1W5yUCcUuktqC5IWCYLSwf,2016-02-05,47,0.326,0.439,0.0875,-8.963,1
+Heavenward,Visions Of A Life,Wolf Alice,72h0tXbdWtDs8fem7NFEhu,2017-09-29,43,0.11,0.692,0.07,-5.685,1
+Lipstick On The Glass,Blue Weekend,Wolf Alice,0jGAm66ie0uOt7bYmXG64f,2021-06-04,56,0.298,0.636,0.193,-5.981,1
+Giant Peach,My Love Is Cool,Wolf Alice,00rgPsaLJHuq1Qm7sdMHOD,2015-06-22,44,0.503,0.812,0.136,-7.829,1
+"Song to the Siren - Recorded at Strongroom Studios, London",Spotify Singles,Wolf Alice,0hx6wJdPlMpT254F9UYQNu,2017-11-15,44,0.371,0.15,0.0785,-11.116,1
+Space & Time,Visions Of A Life,Wolf Alice,5LDMrFh5ZiqzUFLEVo7tjm,2017-09-29,43,0.298,0.638,0.215,-4.331,1
+The Beach,Blue Weekend,Wolf Alice,7DPaVjS5QgtvhDTCp5xHOd,2021-06-04,53,0.698,0.351,0.281,-8.981,1
+Yuk Foo,Visions Of A Life,Wolf Alice,6RExQcl7BFkVmUEo1zf6QW,2017-09-29,43,0.37,0.869,0.0847,-2.919,1
+Safe From Heartbreak (if you never fall in love),Blue Weekend,Wolf Alice,2bR9noN9BRUrgEcatelUvb,2021-06-04,51,0.27,0.417,0.25,-5.913,1
+Wicked Game (Live from Spotify London),Spotify Sessions,Wolf Alice,1PFUvB9Rk9qDd8t6GbqTfM,2015-09-18,41,0.51,0.28,0.219,-13.232,1
+Heavenly Creatures,Creature Songs EP,Wolf Alice,5nCgeFC0siCnVrbTHx3iPL,2014-05-26,38,0.767,0.276,0.386,-11.343,1
+Baby Ain’t Made of China,My Love Is Cool (Deluxe Edition),Wolf Alice,4p6bLKG9fjvMPYmeRTn3I0,2016-02-05,38,0.552,0.449,0.206,-7.971,1
+Boyish,Soft Sounds from Another Planet,Japanese Breakfast,4ETQzZdnRJwaoFIPQy3GJv,2017-07-14,60,0.229,0.457,0.362,-7.457,1
+Head Over Heels,Head Over Heels,Japanese Breakfast,1QPWV0EWKa7GiKO7F7zcVs,2019-06-05,48,0.383,0.15,0.0559,-11.945,1
+Road Head,Soft Sounds from Another Planet,Japanese Breakfast,5rQEom98vgByjAZ4kIw2kL,2017-07-14,60,0.54,0.672,0.161,-8.733,1
+"Glider - from ""Sable"" Original Video Game Soundtrack",Sable (Original Video Game Soundtrack),Japanese Breakfast,6fyMExLM9mmtXAQKCnTaZG,2021-09-24,50,0.37,0.408,0.0724,-9.24,1
+Nobody Sees Me Like You Do,Nobody Sees Me Like You Do,Japanese Breakfast,3vGsonmcc2Y7x8BZYKnjhi,2022-01-26,50,0.604,0.12,0.245,-12.964,1
+Diving Woman,Soft Sounds from Another Planet,Japanese Breakfast,6V7c8Dd40BKFqWIYS5zTXx,2017-07-14,53,0.462,0.746,0.255,-6.722,1
+Heft,Psychopomp,Japanese Breakfast,79rWlGMt177FqsSJ9c0chR,2016-04-01,43,0.547,0.809,0.245,-6.178,1
+Posing In Bondage,Jubilee,Japanese Breakfast,33qgZ7mWvlH95efOGQqfzZ,2021-06-04,58,0.581,0.65,0.199,-7.531,1
+Machinist,Soft Sounds from Another Planet,Japanese Breakfast,13FGWUlqQpGugvEcnEUqou,2017-07-14,46,0.566,0.722,0.143,-7.294,1
+Say It Ain't So - Recorded At Electric Lady Studios,Live At Electric Lady,Japanese Breakfast,3rCSLDwMorMuEV368DjHCx,2021-10-28,44,0.559,0.202,0.319,-11.313,1
+Till Death,Soft Sounds from Another Planet,Japanese Breakfast,3wJVQr9ZfLZfcj19aIfjub,2017-07-14,48,0.447,0.341,0.279,-8.525,1
+Chum Lair,Sable (Original Video Game Soundtrack),Japanese Breakfast,2QzlKD3VVnx0dpuyRJT8lb,2021-09-24,36,0.597,0.381,0.0756,-10.808,1
+Better the Mask,Sable (Original Video Game Soundtrack),Japanese Breakfast,6tQfAfTBvhmgJCjOPsltN4,2021-09-24,42,0.45,0.325,0.217,-7.536,1
+Triple 7,Psychopomp,Japanese Breakfast,6kQiOcWYO8pHWJMQpJsrsU,2016-04-01,38,0.186,0.311,0.114,-9.425,1
+Lindsey - Recorded At Electric Lady Studios,Live At Electric Lady,Japanese Breakfast,0Wgjuj7ZgodP2eLzzjLSAc,2021-10-28,40,0.419,0.0933,0.219,-15.334,1
+Beetle's Nest,Sable (Original Video Game Soundtrack),Japanese Breakfast,29s3yWgAuXwDYo515XTRxX,2021-09-24,36,0.305,0.445,0.311,-13.244,1
+Main Menu,Sable (Original Video Game Soundtrack),Japanese Breakfast,43193ICguBqjuTGEvIsXG9,2021-09-24,40,0.681,0.103,0.212,-7.418,1
+Weird Fishes,Lianne La Havas,Lianne La Havas,5ygk8Hkp4WCCk7GXWEUP9V,2020-07-17,55,0.396,0.415,0.263,-10.106,1
+Bittersweet - Radio Edit,Bittersweet (Radio Edit),Lianne La Havas,7CNtRYYyhNJKXFr2bQ5rv2,2020-02-25,64,0.57,0.409,0.304,-7.555,1
+Paper Thin,Lianne La Havas,Lianne La Havas,7kC97zPE0PxrcItXyGdk8P,2020-07-17,63,0.714,0.243,0.504,-13.513,1
+Green & Gold,Blood,Lianne La Havas,4HCcvFdHfwR2u3WPPPVRv6,2015-07-31,63,0.7,0.4,0.28,-8.46,1
+Say a Little Prayer - Live,Say a Little Prayer (Live),Lianne La Havas,1ZczOoLuCyDO5dKUPndxf5,2016-08-12,59,0.492,0.326,0.376,-6.416,1
+What You Don't Do - Tom Misch Remix,What You Don't Do (Tom Misch Remix),Lianne La Havas,2pygzLN7fwCgeW5FNaugEm,2015-08-07,52,0.704,0.511,0.454,-6.778,1
+Feel (feat. Lianne La Havas),Djesse Vol. 2,Jacob Collier,7MGNHuYwmm9UjQgdVciO1v,2019-07-19,52,0.611,0.134,0.136,-13.96,1
+Read My Mind,Lianne La Havas,Lianne La Havas,18yYhT8fTVjFK9IBPiows6,2020-07-17,52,0.65,0.445,0.442,-9.621,1
+Baltimore,Round Nina,Various Artists,5ORxITsfjK4WUkRSmhKJL3,2014-11-10,45,0.541,0.517,0.166,-13.84,1
+Starry Starry Night,Loving Vincent (Original Soundtrack Album),Clint Mansell,0nSBXjouhwCrQXilxQblQk,2017,52,0.321,0.282,0.161,-13.227,1
+No Room for Doubt (feat. Willy Mason),Is Your Love Big Enough?,Lianne La Havas,1HijbdW9y2iFPhFs6zfemU,2012-07-06,47,0.479,0.107,0.321,-15.893,1
+Sour Flower,Lianne La Havas,Lianne La Havas,3opQwVHIpSMHubh9n9hn27,2020-07-17,47,0.382,0.573,0.291,-8.392,1
+He Loves Me - Solo in Paris,Is Your Love Big Enough? (Deluxe Edition),Lianne La Havas,2ZZShiA84anlNzxjoaDROz,2012-07-06,44,0.392,0.244,0.525,-11.123,1
+Lost & Found,Is Your Love Big Enough?,Lianne La Havas,6FZTAXHzXjkZxhfiHeLG6n,2012-07-06,38,0.518,0.349,0.142,-11.527,1
+Green Papaya,Lianne La Havas,Lianne La Havas,3DHweI4vICEnj2oZIxY57D,2020-07-17,47,0.346,0.165,0.155,-14.096,1
+Final Form,Lost & Found,Lianne La Havas,0FK46YqNUm1GZmL3yQfVct,2011-10-10,32,0.588,0.448,0.267,-9.271,1
+Wonderful,Blood,Lianne La Havas,4yHN5jka3y5OTtGajxVCTc,2015-07-31,42,0.546,0.242,0.213,-13.608,1
+Age,Is Your Love Big Enough?,Lianne La Havas,6fwmEzLL6vlMrGsyPwBRvQ,2012-07-06,39,0.809,0.304,0.508,-6.852,1
+Courage,Lianne La Havas,Lianne La Havas,6WVWglJZaFth6NbuMFC81c,2020-07-17,46,0.544,0.175,0.171,-13.227,1
+Same as Me,Forget,Lianne La Havas,2DGfpk3bkbqt7vUVsCMUIf,2011-12-30,31,0.414,0.3,0.113,-9.463,1
+Tokyo,Blood,Lianne La Havas,02SUyCzxfqllXeEUqVNMVv,2015-07-31,44,0.616,0.624,0.304,-9.128,1
+Night School,Lost & Found,Lianne La Havas,6rju3DuxVVghocmawyu4tT,2011-10-10,31,0.559,0.418,0.324,-12.805,1
+Friends Like Evergreens,Echos d'aujourd'hui,Various Artists,1PXt7IKtWZarJbuPmUTBBi,2013-04-29,35,0.469,0.184,0.23,-11.966,1
+Ghost,Blood,Lianne La Havas,32vbyo69yJq5WXyvHCF0Yp,2015-07-31,43,0.626,0.108,0.334,-15.527,1
+Everything Everything,Is Your Love Big Enough?,Lianne La Havas,5D1JdD0pAC937V1jdCrveU,2012-07-06,31,0.532,0.366,0.293,-8.523,1
+Seven Times - Wu-Lu Remix,Seven Times (Wu-Lu Remix),Lianne La Havas,70loR1tsCdIYX4o6dWgOuz,2021-05-07,45,0.679,0.111,0.508,-28.013,1
+Liar,Lost & Found,Lianne La Havas,1ZWDEGwUm2dJL06kkkfmCk,2012-04-27,32,0.445,0.263,0.263,-11.329,1
+"Forget - Live from Spotify, NYC",Spotify Sessions,Lianne La Havas,1gpyfbutOl79qgVjMrZQOe,2012-07-09,35,0.558,0.38,0.485,-12.971,1
+Empty - In Paris,Is Your Love Big Enough? (Deluxe Edition),Lianne La Havas,1ToMAB6jOrFJ7si9Ldo2Py,2012-07-06,33,0.504,0.359,0.4,-7.376,1
+Fairytale - Solo,Blood (Solo),Lianne La Havas,6gWcCJStzE7TyZu0Tsh0SC,2015-07-31,31,0.59,0.192,0.286,-13.215,1
+Patterns,Patterns,Tourist,5e9xKDuGJFDnvyUUpzrUjE,2014-04-22,35,0.47,0.469,0.534,-9.44,1
+Eggshells (feat. Lianne La Havas),10 Futures,Aqualung,56XKaRiQpQfzpi6cSEfTtk,2015-01-19,34,0.527,0.47,0.513,-10.26,1
+Arms of Danger - Solo in Paris,Is Your Love Big Enough? (Deluxe Edition),Lianne La Havas,2EZRD9luAz9my5TKdA1CyP,2012-07-06,30,0.564,0.129,0.319,-12.244,1
+What She Said - 2011 Remaster,Complete,The Smiths,3twNF3PwpFIDWgw6DImybZ,2011-09-26,30,0.138,0.961,0.184,-5.462,1
+That Joke Isn't Funny Anymore,Complete,The Smiths,1vMvOXItGnvIZ0sS5bhIkC,2011-09-26,32,0.165,0.709,0.338,-7.409,1
+Meat Is Murder - 2011 Remaster,Complete,The Smiths,2qS4WO9DkOGsLhGmS9XAGd,2011-09-26,28,0.408,0.545,0.389,-10.78,1
+I Know It's Over - 2011 Remaster,Complete,The Smiths,0xC9R0fYwDIvTvIVU1Dnrd,2011-09-26,33,0.407,0.424,0.404,-10.583,1
+Never Had No One Ever - 2011 Remaster,Complete,The Smiths,4JXGKTSBLi1wbLMX7MFa6P,2011-09-26,28,0.27,0.535,0.336,-8.673,1
+Last Night I Dreamt That Somebody Loved Me - 2011 Remaster,Complete,The Smiths,5pX5xLKjd9QWK95l37ZfBz,2011-09-26,31,0.132,0.435,0.0679,-9.381,1
+Unhappy Birthday - 2011 Remaster,Complete,The Smiths,6VuOyEDd5qU4c4onPAGPj7,2011-09-26,28,0.61,0.577,0.431,-9.517,1
+I Won't Share You - 2011 Remaster,Complete,The Smiths,79sdLyMW4Et1QZEliydHgS,2011-09-26,28,0.515,0.378,0.436,-11.032,1
+"London - Live in London, 1986",Complete,The Smiths,0Kb0CChdWVsdSTiGbt2x9y,2011-09-26,24,0.349,0.977,0.191,-6.375,1
+"I Know It's Over - Live in London, 1986; Extended Mix",Complete,The Smiths,0N4EDvtNAZQNzPshNORwtp,2011-09-26,25,0.234,0.673,0.345,-7.557,1
+These Things Take Time - David Jensen Session 26/06/83,Complete,The Smiths,3UuT4K8WTughVxDN01agWN,2011-09-26,25,0.362,0.99,0.142,-4.893,1
+Snow Globes,Snow Globes,"Black Country, New Road",3OM2VlABYKmzQRFVJuiQMy,2022-01-19,51,0.426,0.413,0.046,-10.308,1
+Chaos Space Marine,Snow Globes,"Black Country, New Road",52jcx4i5owxlEXy1hYyYuV,2022-01-19,43,0.355,0.548,0.431,-8.937,1
+Concorde,Snow Globes,"Black Country, New Road",7eJvbMU5XPEg2e8YHMdt9r,2022-01-19,42,0.564,0.284,0.316,-11.888,1
+Bread Song,Snow Globes,"Black Country, New Road",3KwCuei6FiNSZUeRAoH2Na,2022-01-19,41,0.301,0.273,0.069,-13.935,1
+"Athens, France",For the first time,"Black Country, New Road",4gb6bKMg61GGfbhPTifP8A,2021-02-05,51,0.371,0.441,0.0966,-10.936,1
+Science Fair,For the first time,"Black Country, New Road",1Yd4xh2rgyiqhbvEGDjfTo,2021-02-05,48,0.555,0.667,0.253,-9.73,1
+Sunglasses,For the first time,"Black Country, New Road",1sT5Wh3SVv6nhs7lgPEnkl,2021-02-05,50,0.474,0.412,0.114,-9.373,1
+Track X,For the first time,"Black Country, New Road",6jezfOPKkARrn1J8AwHTE4,2021-02-05,53,0.476,0.378,0.304,-14.94,1
+Opus,For the first time,"Black Country, New Road",0tg48LaufDT970brtDd7Pg,2021-02-05,47,0.245,0.403,0.0383,-10.182,1
+Concorde,Concorde,"Black Country, New Road",4Lq00qcqHANbxFUeq2ORCk,2021-11-30,55,0.558,0.285,0.321,-11.89,1
+Chaos Space Marine,Concorde,"Black Country, New Road",4OPFjDD0iSFhP2L6bieQNW,2021-11-30,40,0.354,0.545,0.433,-8.941,1
+Bread Song,Concorde,"Black Country, New Road",0r7wKu8XV3xuei8ZnQq6si,2021-11-30,39,0.346,0.274,0.0695,-13.936,1
+Chaos Space Marine,Chaos Space Marine,"Black Country, New Road",6kNYZ2Hf2QCpQhIuPxffkp,2021-10-12,47,0.354,0.548,0.439,-8.952,1
+Bread Song,Bread Song,"Black Country, New Road",0BNI6GU1k6AnnAj3yPxEmy,2021-11-02,44,0.345,0.274,0.072,-13.932,1
+Chaos Space Marine,Bread Song,"Black Country, New Road",2coyjAa1vtdDjjj9OFYaEY,2021-11-02,31,0.354,0.548,0.439,-8.952,1
+John L,Cavalcade,black midi,5XtZpzK2QfBCRG93IQznkW,2021-05-26,50,0.366,0.869,0.0941,-5.989,1
+Marlene Dietrich,Cavalcade,black midi,4G3Nsz59DuaAxM6C4E00K1,2021-05-26,50,0.602,0.434,0.463,-11.047,1
+bmbmbm,Schlagenheim,black midi,3VRR4cKNiHC3CzY4iGj9XX,2019-06-21,48,0.605,0.678,0.347,-6.662,1
+Chondromalacia Patella,Cavalcade,black midi,39rcIUEmwKXL3wgyWhTokV,2021-05-26,46,0.412,0.533,0.527,-10.11,1
+Slow,Cavalcade,black midi,7i3vjpWqzThbgHKtieSH6w,2021-05-26,45,0.467,0.562,0.237,-9.67,1
+Cloud Song,Suddenly,Caribou,4NE79e2fSo9s8HL7Ib37Sk,2020-02-28,28,0.72,0.242,0.494,-13.726,1
+You and I,Suddenly,Caribou,2np2e0pDBBmUgcdItVb6d3,2020-02-28,46,0.732,0.524,0.445,-7.973,1
+953,Schlagenheim,black midi,6TYqetg2GzbwdeDvLBZbZF,2019-06-21,44,0.272,0.909,0.245,-4.921,1
+Cherry-coloured Funk,Heaven or Las Vegas,Cocteau Twins,37pKTyMwalomKCZjxTc2QZ,1990,70,0.49,0.652,0.339,-5.813,1
+Lorelei,Treasure,Cocteau Twins,1ZnXuijpwEBjhNxpEnb8WH,1984-11-01,58,0.373,0.679,0.42,-9.195,1
+Lorelei,Treasure,Cocteau Twins,1MwGbyzRmPXWABLIdW8tzG,1984-11-01,0,0.387,0.669,0.414,-11.187,1
+Fifty-fifty Clown,Heaven or Las Vegas,Cocteau Twins,2vDC9iyQpY3EsioJD8pRiW,1990,54,0.481,0.694,0.374,-7.38,1
+She Will Destroy You,The Moon and the Melodies,Cocteau Twins,5ilhZqIhXgfJyf3oyZNEzK,1986-11-10,0,0.146,0.429,0.115,-14.56,1
+Fotzepolitic,Heaven or Las Vegas,Cocteau Twins,5SuIuaAjFbaxJq9W1qKGw2,1990,48,0.311,0.731,0.133,-7.213,1
+"Those Eyes, That Mouth",Lullabies To Violaine (Volume One),Cocteau Twins,6FaJAAYa9H2jPIvjXDIdH0,2006-02-13,46,0.401,0.675,0.27,-7.961,1
+Sugar Hiccup,Head Over Heels,Cocteau Twins,28gz2W2KMsn1QnvojoWPqv,1983-10-31,47,0.0999,0.866,0.15,-10.024,1
+Ella Megalast Burls Forever,Blue Bell Knoll,Cocteau Twins,1Kam4zdb5LzaLqP04xXGMw,1988-09-19,38,0.333,0.651,0.393,-4.306,1
+Pandora (for Cindy),Treasure,Cocteau Twins,2Vqi1Si1dQjMtAZ79UreqL,1984-11-01,52,0.445,0.555,0.208,-9.919,1
+Oil Of Angels - Remastered 2006,Four Calender Cafe,Cocteau Twins,2wiO1p6SuWwuV1n49JnVAN,1991-10-18,27,0.706,0.433,0.364,-9.207,1
+Cico Buff,Blue Bell Knoll,Cocteau Twins,4csSjpkgRI06CpVeYfIjwM,1988-09-19,41,0.511,0.566,0.363,-9.978,1
+Crushed,Cocteau Twins Singles Collection,Cocteau Twins,2bCnqxQxFYyGf2sCdq8KrN,1991-11-04,40,0.478,0.588,0.351,-13.045,1
+Athol-brose,Blue Bell Knoll,Cocteau Twins,7rRs07dcAzpu4YwKmBQu4z,1988-09-19,38,0.247,0.625,0.354,-5.838,1
+Magpie,Suddenly,Caribou,6sauyv7t4UDRPYqzDpM59D,2020-02-28,32,0.636,0.551,0.488,-15.67,1
+A Forest,Seventeen Seconds (Deluxe Edition),The Cure,0T6kwiueP62ten2KLLmQS4,1980-04-18,0,0.579,0.622,0.435,-11.285,1
+Drunk Walk Home,Bury Me At Makeout Creek,Mitski,0r7UEhhOH1DJQYVPJ1NwOQ,2014-11-11,8,0.331,0.358,0.325,-7.627,1
+My Body's Made of Crushed Little Stars,Puberty 2,Mitski,0B5QveFYJv8jpcJe2G5wcF,2016-06-17,7,0.202,0.744,0.316,-8.248,1
+Your Best American Girl,Puberty 2,Mitski,172rW45GEnGoJUuWfm1drt,2016-06-17,17,0.36,0.257,0.13,-9.655,1
+Cop Car,Cop Car,Mitski,7DLCgotDOZZyiW4cuL1sgn,2020-01-21,58,0.442,0.672,0.182,-6.218,1
+Happy,Puberty 2,Mitski,4gklLwfCAKbm5mqheWWsSt,2016-06-17,7,0.601,0.514,0.041,-10.87,1
+Eric,Lush,Mitski,5d5aQIaGhT7WKDjokdKek0,2012-01-31,57,0.291,0.239,0.0391,-11.335,1
+A Pearl,Be the Cowboy,Mitski,3udrjWCXCBotzU2uQ05Zmx,2018-08-17,19,0.225,0.639,0.226,-4.034,1
+Bag of Bones,Lush,Mitski,1XDusI9Tc8F0gjPlKYYzez,2012-01-31,63,0.429,0.24,0.323,-13.338,1
+Square (Solo Piano Version),"Retired from Sad, New Career in Business",Mitski,4w550INDhXkaG2cmCysKRg,2013-08-01,51,0.22,0.421,0.498,-8.799,1
+Shame,"Retired from Sad, New Career in Business",Mitski,3khxaYbENFyUIFz7MsAliU,2013-08-01,57,0.309,0.181,0.0699,-13.05,1
+"Goodbye, My Danish Sweetheart","Retired from Sad, New Career in Business",Mitski,3iDMNG7MD7uCPMxBOa66ZI,2013-08-01,70,0.652,0.435,0.473,-6.586,1
+Fireworks,Puberty 2,Mitski,5ZGaGCHi0YrSvsjj6QwETb,2016-06-17,10,0.217,0.304,0.135,-11.238,1
+Liquid Smooth,Lush,Mitski,3UChNf9rb9hJZvOcU9HCTb,2012-01-31,69,0.356,0.342,0.116,-9.469,1
+Lonesome Love,Be the Cowboy,Mitski,5hgWjrfgnDb29uCaQ1UovU,2018-08-17,8,0.376,0.729,0.214,-7.336,1
+A Loving Feeling,Puberty 2,Mitski,7rWGO6nfsDwHTqYrHP9eSh,2016-06-17,6,0.331,0.748,0.338,-8.685,1
+Carry Me Out,Bury Me At Makeout Creek,Mitski,0zXDEhxZ02tdfIyAYAf4QL,2014-11-11,10,0.154,0.382,0.113,-8.717,1
+Jobless Monday,Bury Me At Makeout Creek,Mitski,1XXA4Lok0sIaeHdCPkkCxD,2014-11-11,10,0.433,0.442,0.203,-11.217,1
+Blue Light,Be the Cowboy,Mitski,2FBtdx9H4LuNlQ4NkUSf4l,2018-08-17,6,0.297,0.417,0.173,-6.34,1
+Geyser,Be the Cowboy,Mitski,6lMMiFxOnNZBEJFc4UQPwS,2018-08-17,9,0.264,0.61,0.152,-4.904,1
+Texas Reznikoff,Bury Me At Makeout Creek,Mitski,6MjiSBqVWiJCki6aUWV7h7,2014-11-11,7,0.297,0.263,0.37,-9.752,1
+Pink in the Night,Be the Cowboy,Mitski,5Yb82JrDj09gQHQtjWgYYo,2018-08-17,14,0.262,0.398,0.11,-9.509,1
+A Horse Named Cold Air,Be the Cowboy,Mitski,3UCVQ8kRYO9959JugQamqn,2018-08-17,5,0.291,0.0826,0.119,-14.668,1
+First Love / Late Spring,Bury Me At Makeout Creek,Mitski,1Ac5BDsGUMQ3tsW2vnc52x,2014-11-11,28,0.443,0.545,0.104,-8.196,1
+Francis Forever,Bury Me At Makeout Creek,Mitski,6gpSU2C1VJq0xaVIGtQPVi,2014-11-11,21,0.535,0.448,0.32,-9.167,1
+Old Friend,Be the Cowboy,Mitski,5wmn1zWhSSDLUmLLwYO9Rj,2018-08-17,9,0.577,0.448,0.327,-9.126,1
+Come into the Water,Be the Cowboy,Mitski,20heAqI3ysB8CjwBMCx6PD,2018-08-17,7,0.395,0.375,0.353,-10.614,1
+I Will,Bury Me At Makeout Creek,Mitski,0eYmkWPJqioxUgSh9pVzS5,2014-11-11,12,0.533,0.306,0.261,-13.659,1
+Abbey,Lush,Mitski,6fJhF2zdKgCSO3E4JcvVER,2012-01-31,60,0.511,0.204,0.254,-9.117,1
+Thursday Girl,Puberty 2,Mitski,3i8N6pqmAAPPxW7RMgT400,2016-06-17,5,0.398,0.4,0.0512,-13.011,1
+Door,Lush,Mitski,3DUlkvCTUGXiwqFuBoircZ,2012-01-31,54,0.361,0.0922,0.39,-13.796,1
+A Burning Hill,Puberty 2,Mitski,0Ii6Ec7qLQqniKG4Bgfl8J,2016-06-17,13,0.464,0.19,0.104,-14.978,1
+Once More to See You,Puberty 2,Mitski,4NUzTA6zllnTaZRidrd9NI,2016-06-17,11,0.539,0.409,0.334,-13.654,1
+Crack Baby,Puberty 2,Mitski,3bNNk3657B2DoKewtTqYj3,2016-06-17,10,0.234,0.552,0.0562,-11.909,1
+Humpty,"Retired from Sad, New Career in Business",Mitski,4is2lDOSQPmYzvxY33dX40,2013-08-01,62,0.339,0.286,0.243,-12.255,1
+Circle,"Retired from Sad, New Career in Business",Mitski,6ihP7iEFdyiOYX9wkkmh77,2013-08-01,54,0.23,0.248,0.0473,-11.927,1
+Pearl Diver,Lush,Mitski,1AawyOAUCnID3AiuXsL5oB,2012-01-31,62,0.346,0.152,0.175,-11.312,1
+"Because Dreaming Costs Money, My Dear","Retired from Sad, New Career in Business",Mitski,2DWf9b143xSKlm7ZWn4nVP,2013-08-01,62,0.355,0.169,0.196,-13.837,1
+Square,"Retired from Sad, New Career in Business",Mitski,1YKy9m6mpAxJTM3fDLbKAm,2013-08-01,56,0.277,0.198,0.106,-12.21,1
+I Don't Smoke,Bury Me At Makeout Creek,Mitski,42lQlyLSQR3qLTu4FOMqHY,2014-11-11,8,0.135,0.54,0.233,-7.108,1
+I Want You,"Retired from Sad, New Career in Business",Mitski,4Phnrzy56Yt0VNooKCwr3p,2013-08-01,74,0.286,0.292,0.0635,-11.294,1
+Last Words of a Shooting Star,Bury Me At Makeout Creek,Mitski,0zCm4JTVBuIWSSL8rMUChT,2014-11-11,16,0.393,0.167,0.0961,-19.024,1
+I Bet on Losing Dogs,Puberty 2,Mitski,3uS7pHvPRtJlyukzNZGpcO,2016-06-17,25,0.399,0.496,0.386,-9.561,1
+Wife,Lush,Mitski,0uZ9Cop3w5BIkNrMwy2uOL,2012-01-31,59,0.376,0.101,0.231,-14.451,1
+Class of 2013,"Retired from Sad, New Career in Business",Mitski,4N2ibi4kcH4D5ZYYvMiKsg,2013-08-01,69,0.44,0.22,0.122,-10.638,1
+Two Slow Dancers,Be the Cowboy,Mitski,18Zr5WWu7X9LVool3pJRum,2018-08-17,13,0.225,0.106,0.0535,-13.166,1
+Oh Ana,Touch Up,Mother Mother,45i70K1PefHafKui2WxH0M,2007-05-08,73,0.512,0.525,0.337,-7.152,1
+Love And Truth,Touch Up,Mother Mother,2VW4ebvVY5MbqsErlhunfr,2007-05-08,45,0.651,0.356,0.532,-9.65,1
+Legs Away,Touch Up,Mother Mother,5pGplPcPXARnv6OVldJfAx,2007-05-08,45,0.62,0.57,0.351,-6.125,1
+Burning Pile,O My Heart,Mother Mother,0zMAvsQmaQ4DGsmXtKixpn,2008-09-23,80,0.516,0.755,0.165,-3.724,1
+Wisdom,O My Heart,Mother Mother,0p6UtCJowkcj4IXuQiOTQp,2008-09-23,55,0.547,0.614,0.233,-5.801,1
+Ghosting,O My Heart,Mother Mother,3vZUC1m6QVm7urnN6lcF64,2008-09-23,70,0.606,0.618,0.237,-5.1,1
+Arms Tonite,O My Heart,Mother Mother,1rRwwqteLePmi70PGaC8ah,2008-09-23,76,0.687,0.646,0.323,-3.841,1
+Sleep Awake,O My Heart,Mother Mother,1cSgnOFHPaWp6b3FHOjmP5,2008-09-23,52,0.299,0.469,0.0592,-6.488,1
+Little Pistol,The Sticks,Mother Mother,0rPsA6WNBe8BdSgth2z0HG,2012-09-18,61,0.295,0.478,0.17,-7.844,1
+Worry,No Culture (Deluxe),Mother Mother,4oeROCp57LkND2WeInbc5W,2017-02-10,43,0.553,0.412,0.132,-8.909,1
+Chocolate Hills,Chocolate Hills,Khruangbin,1No3OKWvdgtctLvSKQcREg,2022-01-19,70,0.661,0.281,0.218,-11.854,1
+Summer Madness,Summer Madness,Khruangbin,7fpiYh33Xph4OPj8gS8jL0,2020-10-28,58,0.504,0.323,0.453,-12.442,1
+A Calf Born in Winter,A Calf Born in Winter,Khruangbin,230tKtsKM3eigmK2CtssAO,2014-05-26,57,0.513,0.393,0.513,-13.338,1
+First Class,Mordechai,Khruangbin,7JbBwnIVC92yt9eXjQi1lZ,2020-06-26,57,0.581,0.394,0.611,-14.825,1
+The Number 3,The Infamous Bill,Khruangbin,1e5nuWd8w0ZQlgEA19okwE,2014-10-13,52,0.542,0.518,0.531,-11.332,1
+Friday Morning,Con Todo El Mundo,Khruangbin,2M45IIrFLjMgsNSSxee31h,2018-01-26,53,0.44,0.261,0.438,-13.631,1
+Conversion,Texas Sun,Khruangbin,7DJgonAUzq9qXzF7mMrOot,2020-02-07,56,0.473,0.444,0.288,-10.467,1
+LONG SEASON,LONG SEASON,Fishmans,08b1bCjsKjMzhjBm0qhkof,1996-10-25,46,0.476,0.802,0.228,-9.021,1
+Yoru no Omoi,Orange,Fishmans,1t72VmMNPkZIf83FmpCJAx,1994-11-01,25,0.661,0.493,0.311,-12.458,1
+新しい人,空中キャンプ,Fishmans,5RXsyzFF3lve6Bpz3CIOQh,1996-02-01,39,0.765,0.275,0.48,-14.683,1
+WEATHER REPORT,宇宙 日本 世田谷,Fishmans,682TDtMAq9UcKN0QqVN019,1997-07-24,34,0.675,0.638,0.343,-10.027,1
+IN THE FLIGHT,宇宙 日本 世田谷,Fishmans,0msOgZw6XpjSXTyNr6Jkd8,1997-07-24,33,0.641,0.25,0.556,-12.967,1
+DAYDREAM,宇宙 日本 世田谷,Fishmans,2BVeeIDSD2dCnkNMhGDYK4,1997-07-24,40,0.545,0.4,0.519,-12.422,1
+POKKA POKKA,宇宙 日本 世田谷,Fishmans,2diC2THH55uAw4GGpZQjwn,1997-07-24,40,0.63,0.378,0.229,-11.204,1
